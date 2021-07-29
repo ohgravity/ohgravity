@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ohgravity (Sara!)
 - 👀 I’m interested in coding, electronic music, art,...
-- 🌱 I’m currently learning Apollo.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking for a job! And to collaborate on something open source...
 - 📫 How to reach me: Send a note on my contact form at https://sarasegel.net/ or an email to sara.segel@gmail.com.
